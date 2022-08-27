@@ -1,2 +1,4 @@
 # CS108-IntermediateProgramming
- CS108 Intermediate Computer Programming
+SDSU, Spring 2021
+
+Course Description: Further training in program design and development. Object-oriented programming to include inheritance, polymorphism, and generic code. Extensive programming in Java. Introduction to data structures.
